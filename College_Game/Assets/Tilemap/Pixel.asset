@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Pixel
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: a558c6ab2c28ca9498bda6fc5be3c725, type: 3}
-  m_Color: {r: 1, g: 0.120615244, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.8960046, b: 0, a: 1}
   m_Transform:
     e00: 1
     e01: 0
